@@ -180,3 +180,4 @@ Found a bug or have a feature request? Please open an issue on [GitHub Issues](h
 *Scaffold Flask projects at the speed of light* ⚡"# Veloxa" 
 "# Veloxa" 
 "# Veloxa" 
+"# Veloxa" 
