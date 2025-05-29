@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "veloxa"
 version = "0.6.0"
 authors = [
-    {name = "Yug Bhuva", email = "yhuva817@gmail.com"}
+    {name = "Yug Bhuva", email = "ybhuva817@gmail.com"}
 ]
 description = "A modern CLI tool to scaffold Flask project structures"
 readme = {file = "README.md", content-type = "text/markdown"}
